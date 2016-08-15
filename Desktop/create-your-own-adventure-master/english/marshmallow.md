@@ -1082,5 +1082,4 @@ that one central question... will you? or will you not?
 
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
 
-You finally realize there is no spoon, so you decide to go to your closet 
-where you stashed a phone back to the [matrix](matrix/matrix.md)
+You finally realize there is no spoon, so you decide to go to your closet where you stashed a phone back to the [matrix](matrix/matrix.md)
